@@ -70,8 +70,8 @@ jan 2024 - jun 2026 (cursando)
 ##
 
 <h3>Entre em contato comigo</h3>
-<a href="https://www.linkedin.com/in/gabrielm-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gabriel_26@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luizfelipe-m-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:luizfelipe02081@gmail.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
 
 <br/>
 <br/>
@@ -79,9 +79,9 @@ jan 2024 - jun 2026 (cursando)
 ##
 <h3>Estatísticas</h3>
 <div>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=LuizFelipe-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-O&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe-O&layout=compact&langs_count=7&theme=dracula"/>
 <br/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielModesto-O&theme=omni&theme=dracula" alt="stats"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-O&theme=omni&theme=dracula" alt="stats"/>
 </div>
