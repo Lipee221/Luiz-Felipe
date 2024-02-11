@@ -11,7 +11,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 - 🎈 Sou do Rio de Janeiro, RJ.
 - 🧠 Desenvolvedor **Mobile** em formação
-- 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
+- 🎓 Formado - **Téc. em Informática (Desenvolvimento Mobile)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 🚀 Elevando minhas habilidades em: **DART** no [**Programa Desenvolve**](https://desenvolve.grupoboticario.com.br/) 
 <br/>
 
