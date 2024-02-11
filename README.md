@@ -59,10 +59,6 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) 
-**Análise e Desenvolvimento de Sistemas** \
-[**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
-jan 2024 - jun 2026 (cursando)
 
 <br/>
 <br/>
