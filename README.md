@@ -79,7 +79,7 @@ jan 2024 - jun 2026 (cursando)
 ##
 <h3>Estatísticas</h3>
 <div>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Luiz-Felipe-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Luiz-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Felipe-O&layout=compact&langs_count=7&theme=dracula"/>
 <br/>
