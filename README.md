@@ -14,7 +14,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 - 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
 
-- 🚀 Elevando minhas habilidades em: **SQL** na [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e **Front-end** na [**Origamid**](https://www.origamid.com/)
+- 🚀 Elevando minhas habilidades em: **DART** no [**Programa Desenvolve**](https://desenvolve.grupoboticario.com.br/) 
 <br/>
 
 ##
