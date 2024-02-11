@@ -79,9 +79,9 @@ jan 2024 - jun 2026 (cursando)
 ##
 <h3>Estatísticas</h3>
 <div>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=LuizFelipe-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Luiz-Felipe-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe-O&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Felipe-O&layout=compact&langs_count=7&theme=dracula"/>
 <br/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-O&theme=omni&theme=dracula" alt="stats"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Felipe-O&theme=omni&theme=dracula" alt="stats"/>
 </div>
