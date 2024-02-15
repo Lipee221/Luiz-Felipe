@@ -18,7 +18,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/GabrielModesto-O)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/Luiz-Felipe)
   
 <br/>
 
