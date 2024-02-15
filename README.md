@@ -31,18 +31,19 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 <h3> Tecnologias/ferramentas que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/GabrielModesto-O)
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
+</div>
 
 
 <br/>
 
-<h3> Minhas Ferramentas</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/GabrielModesto-O)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/GabrielModesto-O)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/GabrielModesto-O)
-
-<br/>
 
 ##
 
