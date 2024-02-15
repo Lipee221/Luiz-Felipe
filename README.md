@@ -3,9 +3,7 @@
 
 <br/>
 
-Fascinado por criar `interfaces agradáveis` e `intuitivas`, um de meus principais `objetivos` também é a `otimização de processos`, a fim de oferecer ao usuário final uma melhor experiência.
-
-Visando a `excelência`, busco superar sempre às expectativas das partes interessadas, estando em `constante aprendizado`, aperfeiçoando `técnicas` e sempre buscando me atualizar com as últimas `tendências em tecnologias` voltadas ao desenvolvimento `front-end`, e as quais também possam agregar em meus objetivos e a fins.
+Como desenvolvedor mobile apaixonado, estou comprometido em criar soluções inovadoras que proporcionem uma experiência excepcional aos usuários. Meu código é meu artefato, e estou constantemente refinando e aprimorando-o para alcançar a excelência. No GitHub, compartilho meu trabalho e colaboro com outros desenvolvedores para impulsionar o progresso da tecnologia móvel.
 
 <br/>
 
@@ -73,17 +71,10 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 
 <h3>Entre em contato comigo</h3>
 <a href="https://www.linkedin.com/in/luizfelipe-m-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:luizfelipe02081@gmail.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
+
 
 <br/>
 <br/>
 
 ##
-<h3>Estatísticas</h3>
-<div>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Luiz-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Felipe&layout=compact&langs_count=7&theme=dracula"/>
-<br/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Felipe&theme=omni&theme=dracula" alt="stats"/>
-</div>
+
