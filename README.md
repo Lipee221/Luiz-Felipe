@@ -18,8 +18,15 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/Luiz-Felipe)
-  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+
+</div>
 <br/>
 
 <h3> Tecnologias/ferramentas que já tive contato</h3>
